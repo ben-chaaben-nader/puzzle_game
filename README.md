@@ -1,32 +1,22 @@
 Installation
 Clone the repository:
 
-bash
-Copier
-Modifier
+
 git clone https://github.com/ben-chaaben-nader/puzzle_game.git
 Navigate to the project directory:
 
-bash
-Copier
-Modifier
+
 cd puzzle_game
 Install dependencies:
 
-bash
-Copier
-Modifier
+
 pip install -r requirements.txt
 Run the game:
 
-bash
-Copier
-Modifier
+
 python src/game.py
 📁 Project Structure
-bash
-Copier
-Modifier
+
 puzzle_game/
 ├── assets/
 │   ├── background.mp3         # Background music
